@@ -1,6 +1,6 @@
 # Jude Kriel Ramcharitar
 
-**Economics + Artificial Intelligence @ Carnegie Mellon University**
+**Business + Artificial Intelligence @ Carnegie Mellon University**
 
 I build at the intersection of **markets, machine learning, and software**. My work focuses on quantitative research, market microstructure, applied AI, and the infrastructure needed to make financial research more rigorous and reproducible.
 
