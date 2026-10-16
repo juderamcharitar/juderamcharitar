@@ -12,11 +12,11 @@ Empirical market-microstructure research using **269,330 timestamped 10-level li
 
 [Read the paper](https://github.com/juderamcharitar/latency-compensating-mm/blob/main/paper_v4/main.pdf) · [View the repository](https://github.com/juderamcharitar/latency-compensating-mm)
 
-### [Personal Portfolio](https://github.com/juderamcharitar/jude-ramcharitar-portfolio)
+### [Personal Portfolio](https://jude-ramcharitar.netlify.app/)
 
 A Next.js portfolio bringing together my work across financial research, artificial intelligence, entrepreneurship, and software. Built with **Next.js, React, TypeScript, Tailwind CSS, and Motion**.
 
-[View the repository](https://github.com/juderamcharitar/jude-ramcharitar-portfolio)
+[Visit the website](https://jude-ramcharitar.netlify.app/)
 
 ## Current focus
 
