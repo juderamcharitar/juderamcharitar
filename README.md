@@ -4,10 +4,6 @@
 
 I build at the intersection of **markets, machine learning, and software**. My work focuses on quantitative research, market microstructure, applied AI, and the infrastructure needed to make financial research more rigorous and reproducible.
 
-<p align="center">
-  <img src="assets/binary-portrait.svg" alt="Portrait of Jude Ramcharitar recreated using binary digits" width="420" />
-</p>
-
 ## Selected work
 
 ### [How Much Does Limit Order Book Microstructure Add Beyond Quote Geometry?](https://github.com/juderamcharitar/latency-compensating-mm)
